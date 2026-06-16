@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 1.  Clone this repository:
 
-        git clone https://github.com/Siddharth-2382/Lunar-Lander-AI.git
+        git clone https://github.com/DarkLord20075/Lunar-Lander-AI.git
         cd Lunar-Lander-AI
 
 2.  Install the required dependencies. You can use a virtual environment if desired:
